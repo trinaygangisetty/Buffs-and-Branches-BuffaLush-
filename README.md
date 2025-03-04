@@ -6,9 +6,14 @@ This project is a **comprehensive analysis of trees on CU Boulder’s historic c
 ---
 
 ## Project Structure
-- **`tree_data_cleaning.html`** – Code documentation for the data cleaning pipeline.
-- **`cleaned_trees_dataset.csv`** – The refined dataset post-cleaning.
-- **`CU_Boulder_Tree_Analysis.pdf`** – The complete project report with insights, calculations, and visualizations.
+- `data/`: Contains datasets used in the analysis.
+- `images/`: Includes visual assets and figures generated during the project.
+- `notebooks/`: Jupyter notebooks detailing data cleaning, analysis, and visualization processes.
+- `report/`: Documentation and reports summarizing findings and methodologies.
+- `.gitignore`: Specifies files and directories to be ignored by Git.
+- `LICENSE`: The MIT license governing the project's use.
+- `README.md`: Provides an overview of the project, including its objectives and structure.
+
 
 ---
 
@@ -70,7 +75,3 @@ This project tells a **data-driven story** about CU Boulder’s trees through **
 Urban forestry plays a **critical role in sustainability**—beyond aesthetics, trees are **natural carbon sinks** that enhance **air quality, biodiversity, and ecological balance**. By **leveraging data science**, this project provides **actionable insights** that aid in **campus planning, conservation efforts, and sustainability policies**.
 
 ---
-
-##  Author
-📌 **Trinay Gangisetty**  
-🏆 **Buffalization Data Visualization Challenge 2025**
